@@ -1,0 +1,29 @@
+{
+  "name": "cypress-saucedemo",
+  "version": "1.0.0",
+  "description": "Cypress test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpaa07/cypress-saucedemo.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "practice"
+  ],
+  "author": "Juan Pablo Arango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpaa07/cypress-saucedemo/issues"
+  },
+  "homepage": "https://github.com/jpaa07/cypress-saucedemo#readme",
+  "devDependencies": {
+    "cypress": "^13.5.1",
+    "typescript": "^5.3.2"
+  }
+}
